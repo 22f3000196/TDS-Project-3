@@ -1,5 +1,5 @@
 # 🌐 LLM Agent — **Querya**
-**Browser-Based Multi-Tool Reasoning** · [Live Demo](https://tds-bonus-project-llm-agent.vercel.app/)
+**Browser-Based Multi-Tool Reasoning** · [Live Demo](https://tds-project-3-delta.vercel.app/)
 
 **Querya** is a lightweight, browser-native LLM agent that blends natural-language reasoning with external tools (search, pipelines, in-browser JS execution). It demonstrates how a modern agent can **call tools iteratively** until a task is complete — all with a **minimal, hackable UI** and a **vanilla JavaScript core**.
 
@@ -69,8 +69,8 @@ This loop is implemented in **vanilla JS** (see `agentLoop()` and `executeTool()
 ### Setup
 1. **Clone** the repo:
    ```bash
-   git clone https://github.com/23f1000805/tds-bonus-project-LLM-Agent.git
-   cd tds-bonus-project-LLM-Agent
+   git clone https://github.com/22f3000196/TDS-Project-3.git
+   cd TDS-Project-3
    ```
 2. **Open** `index.html` in your browser.  
    *(No backend; runs fully client-side.)*
@@ -170,4 +170,5 @@ This loop is implemented in **vanilla JS** (see `agentLoop()` and `executeTool()
 ## 📝 License
 
 MIT — free to use, modify, and distribute. Contributions welcome!
+
 
