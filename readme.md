@@ -1,7 +1,7 @@
 # 🌐 LLM Agent — **Querya**
 **Browser-Based Multi-Tool Reasoning** · [Live Demo](https://tds-bonus-project-llm-agent.vercel.app/)
 
-**GyaanSetu** is a lightweight, browser-native LLM agent that blends natural-language reasoning with external tools (search, pipelines, in-browser JS execution). It demonstrates how a modern agent can **call tools iteratively** until a task is complete — all with a **minimal, hackable UI** and a **vanilla JavaScript core**.
+**Querya** is a lightweight, browser-native LLM agent that blends natural-language reasoning with external tools (search, pipelines, in-browser JS execution). It demonstrates how a modern agent can **call tools iteratively** until a task is complete — all with a **minimal, hackable UI** and a **vanilla JavaScript core**.
 
 ---
 
@@ -170,3 +170,4 @@ This loop is implemented in **vanilla JS** (see `agentLoop()` and `executeTool()
 ## 📝 License
 
 MIT — free to use, modify, and distribute. Contributions welcome!
+
